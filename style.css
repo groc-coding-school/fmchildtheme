@@ -1,0 +1,16 @@
+/*
+ Theme Name: Fruits Ministries Child Theme
+ Theme URI: https://groc-coding-school.github.io/fmchildtheme/
+ Description: The theme fmchildtheme uses OceanWP as the parent theme.
+ Author: Groc Coding School
+ Author URI: https://github.com/groc-coding-school/fmchildtheme
+ Template: oceanwp
+ Version: 1.0.0
+ License:      GNU General Public License v3 or later
+ License URI:  https://www.gnu.org/licenses/gpl-3.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  oceanwpchild
+*/
+
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
